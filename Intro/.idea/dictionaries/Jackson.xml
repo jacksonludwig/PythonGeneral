@@ -2,6 +2,7 @@
   <dictionary name="Jackson">
     <words>
       <w>hashmap</w>
+      <w>readlines</w>
     </words>
   </dictionary>
 </component>

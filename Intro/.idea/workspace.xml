@@ -2,20 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7de4d0-a6ac-47b7-bda4-333e92d6e8f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Jackson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparisons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customPowFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forLoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guessingGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifStatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/2DlistsNested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/Utilities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/exampleText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/exampleText1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/exampleText2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/excecptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/modulesAndPIP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/readingFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction/writingFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectsAndClasses/Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectsAndClasses/Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objectsAndClasses/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jackson.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jackson.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/basicCalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/comparisons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customPowFunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/customPowFunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forLoops.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/forLoops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions2.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/functions2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guessingGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/guessingGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifStatements.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/ifStatements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/introduction/variables.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +58,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -47,6 +68,7 @@
       <recent name="D:\PythonGeneral\Intro" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonGeneral\Intro\introduction" />
       <recent name="D:\PythonGeneral\Intro" />
     </key>
   </component>
@@ -62,8 +84,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.customPowFunc">
-    <configuration name="customPowFunc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objectsAndClasses" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/customPowFunc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objectsAndClasses/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objectsAndClasses" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objectsAndClasses/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forLoops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modulesAndPIP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,49 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forLoops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="guessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guessingGame.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonGeneral\Intro\introduction\modulesAndPIP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +160,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numbers.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonGeneral\Intro\introduction\numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readingFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\PythonGeneral\Intro\introduction\readingFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="writingFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\PythonGeneral\Intro\introduction\writingFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.customPowFunc" />
-        <item itemvalue="Python.forLoops" />
-        <item itemvalue="Python.guessingGame" />
-        <item itemvalue="Python.loops" />
-        <item itemvalue="Python.dictionaries" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.modulesAndPIP" />
+        <item itemvalue="Python.writingFile" />
+        <item itemvalue="Python.readingFile" />
       </list>
     </recent_temporary>
   </component>
@@ -224,5 +246,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
