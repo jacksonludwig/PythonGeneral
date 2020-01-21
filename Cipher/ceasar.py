@@ -1,3 +1,6 @@
+# From:
+# https://inventwithpython.com/chapter14.html
+
 MAX_KEY_SIZE = 26
 
 
