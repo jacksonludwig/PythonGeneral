@@ -1,4 +1,4 @@
-from objectsAndClasses.Student import Student
+from Student import *
 
 
 student1 = Student("john", "123 abc street", 19, 3.5, "Computer Science", 0)
@@ -10,5 +10,3 @@ print(student1.on_honor_roll())
 
 print(student1.reverse_name())
 print(student2.reverse_name())
-
-

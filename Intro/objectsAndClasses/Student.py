@@ -1,4 +1,4 @@
-from objectsAndClasses.Person import Person
+from Person import *
 
 
 class Student(Person):
